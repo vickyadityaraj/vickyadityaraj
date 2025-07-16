@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A Passionate Student Developer from Hyderabad, India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Student+Developer;MERN+%7C+TailwindCSS+%7C+Django+Enthusiast;JavaScript+%7C+TypeScript+%7C+Python;Hackathon+Top+Performer+%F0%9F%8E%89" alt="Typing SVG" />
-</p>
+
 
 ---
 
