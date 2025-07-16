@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">A Passionate Student Developer from Hyderabad, India</h3>
+<h3 align="center">A Passionate Web Developer from Hyderabad, India</h3>
 
 
 
